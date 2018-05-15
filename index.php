@@ -8,7 +8,7 @@
 echo "Good Afternoon Theon!" . "<br>";
 echo "Today is " . date("l");
 echo. date("d/m/Y") . "<br>";
-echo "   <a href=\\"https://news.google.com/gn/news/?ned=en_ie&gl=IE&hl=en-IE">Click here to get todays news</a>";
+echo " <a href=\\"https:news.google.com/gn/news/?ned=en_ie&gl=IE&hl=en-IE">Click here to get todays news</a> ";
 
 ?>
 </body>
