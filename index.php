@@ -2,16 +2,14 @@
 <html>
 <body>
 
-<h1>My first PHP page</h1>
+<h1>Welcome to Developing Cloud content</h1>
 
 <?php
-echo "Hello World!";
-echo "Today is " . date("Y/m/d") . "<br>";
-echo "Today is " . date("Y.m.d") . "<br>";
-echo "Today is " . date("Y-m-d") . "<br>";
+echo "Good Afternoon Theon!" . "<br>";
 echo "Today is " . date("l");
-?>
-  
+echo. date("d/m/Y") . "<br>";
+echo "   <a href=\\"https://news.google.com/gn/news/?ned=en_ie&gl=IE&hl=en-IE">Click here to get todays news</a>";
 
+?>
 </body>
 </html>
